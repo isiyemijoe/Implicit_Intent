@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText location_text;
     private EditText share_text;
     private EditText newText;
-    private String testing;
+    private String testing = "test";
 
     private Button web_btn;
     private Button location_btn;
@@ -94,5 +94,9 @@ public class MainActivity extends AppCompatActivity {
                 .setChooserTitle("Share this text with: ")
                 .setText(text)
                 .startChooser();
+    }
+
+    public void checkCommit(){
+        String isCommitted = testing;
     }
 }
