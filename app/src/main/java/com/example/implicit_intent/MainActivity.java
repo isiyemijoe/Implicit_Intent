@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText web_text;
     private EditText location_text;
     private EditText share_text;
+    private EditText newText;
 
     private Button web_btn;
     private Button location_btn;
