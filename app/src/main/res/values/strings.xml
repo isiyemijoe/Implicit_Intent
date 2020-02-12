@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit_Intent</string>
+    <string name="share_this_text">Share This Text</string>
+    <string name="input_your_text">Input Your Text</string>
+    <string name="input_your_location">Input Your Location</string>
+    <string name="open_location">Open Location</string>
+    <string name="input_web_url">Input Web Url</string>
+    <string name="go_to_site">Go To Site</string>
+    <string name="go_to_home">Go</string>
+</resources>
